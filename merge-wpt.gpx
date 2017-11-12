@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2017-09-08T14:53:56.054Z</time>
+    <bounds minlat="41.383404000" minlon="41.760642000" maxlat="43.319167000" maxlon="45.012425000"/>
+  </metadata>
+  <wpt lat="43.319167000" lon="45.012425000">
+    <ele>355.296875</ele>
+    <time>2016-09-03T14:20:38Z</time>
+    <name>АЭРОПОРТ МАГАС</name>
+    <cmt>АЭРОПОРТ МАГАС</cmt>
+    <desc>АЭРОПОРТ МАГАС</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.581206000" lon="44.457313000">
+    <ele>2250.579346</ele>
+    <time>2016-08-15T15:55:25Z</time>
+    <name>РАДИАЛКА</name>
+    <cmt>РАДИАЛКА</cmt>
+    <desc>РАДИАЛКА</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.581242000" lon="44.457316000">
+    <ele>2253.299072</ele>
+    <time>2016-08-15T15:56:19Z</time>
+    <name>242</name>
+    <cmt>242</cmt>
+    <desc>242</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.583123000" lon="44.460147000">
+    <ele>2058.947754</ele>
+    <time>2016-08-15T16:26:58Z</time>
+    <name>ЛАГ150816</name>
+    <cmt>ЛАГ150816</cmt>
+    <desc>ЛАГ150816</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.546271000" lon="44.427092000">
+    <ele>3049.021973</ele>
+    <time>2016-08-16T12:54:06Z</time>
+    <name>ЛАГ160816</name>
+    <cmt>ЛАГ160816</cmt>
+    <desc>ЛАГ160816</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.541340000" lon="44.422035000">
+    <ele>3230.109863</ele>
+    <time>2016-08-17T05:53:55Z</time>
+    <name>СТОЯНКА</name>
+    <cmt>СТОЯНКА</cmt>
+    <desc>СТОЯНКА</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.539954000" lon="44.417350000">
+    <ele>3293.029297</ele>
+    <time>2016-08-17T06:33:33Z</time>
+    <name>СТОЯНКИ2</name>
+    <cmt>СТОЯНКИ2</cmt>
+    <desc>СТОЯНКИ2</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.540833000" lon="44.409320000">
+    <ele>3426.342529</ele>
+    <time>2016-08-17T07:39:04Z</time>
+    <name>ХОРИСАР ПЕР</name>
+    <cmt>ХОРИСАР ПЕР</cmt>
+    <desc>ХОРИСАР ПЕР</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.541528000" lon="44.380636000">
+    <ele>3134.139648</ele>
+    <time>2016-08-17T11:47:59Z</time>
+    <name>КЕЛИЦАД ПЕР</name>
+    <cmt>КЕЛИЦАД ПЕР</cmt>
+    <desc>КЕЛИЦАД ПЕР</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.544038000" lon="44.369613000">
+    <ele>3073.301514</ele>
+    <time>2016-08-17T13:29:10Z</time>
+    <name>ЛАГ170816</name>
+    <cmt>ЛАГ170816</cmt>
+    <desc>ЛАГ170816</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.545574000" lon="44.356454000">
+    <ele>3373.879395</ele>
+    <time>2016-08-18T05:24:53Z</time>
+    <name>ЭСИ ПЕР</name>
+    <cmt>ЭСИ ПЕР</cmt>
+    <desc>ЭСИ ПЕР</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.599325000" lon="44.394841000">
+    <ele>2174.988525</ele>
+    <time>2016-08-18T15:53:50Z</time>
+    <name>ЛАГ180816</name>
+    <cmt>ЛАГ180816</cmt>
+    <desc>ЛАГ180816</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.638621000" lon="44.459471000">
+    <ele>2585.823486</ele>
+    <time>2016-08-19T15:30:35Z</time>
+    <name>ЛАГ190816</name>
+    <cmt>ЛАГ190816</cmt>
+    <desc>ЛАГ190816</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.652992000" lon="44.461352000">
+    <ele>2517.536377</ele>
+    <time>2016-08-20T04:13:07Z</time>
+    <name>243</name>
+    <cmt>243</cmt>
+    <desc>243</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.681819000" lon="44.448955000">
+    <ele>3489.581543</ele>
+    <time>2016-08-20T08:46:36Z</time>
+    <name>КОММУН ЮЖ</name>
+    <cmt>КОММУН ЮЖ</cmt>
+    <desc>КОММУН ЮЖ</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.660223000" lon="44.495916000">
+    <ele>3528.054443</ele>
+    <time>2016-08-21T12:50:49Z</time>
+    <name>ЛАГ210816</name>
+    <cmt>ЛАГ210816</cmt>
+    <desc>ЛАГ210816</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.675785000" lon="44.503437000">
+    <ele>4100.709961</ele>
+    <time>2016-08-22T08:45:20Z</time>
+    <name>ОРЦВЕРИ ПЕР</name>
+    <cmt>ОРЦВЕРИ ПЕР</cmt>
+    <desc>ОРЦВЕРИ ПЕР</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.680385000" lon="44.522309000">
+    <ele>3824.943604</ele>
+    <time>2016-08-22T13:11:39Z</time>
+    <name>ЛАГ220816</name>
+    <cmt>ЛАГ220816</cmt>
+    <desc>ЛАГ220816</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.699606000" lon="44.503123000">
+    <ele>4499.038086</ele>
+    <time>2016-08-23T08:08:36Z</time>
+    <name>АККЛИМАТ230816</name>
+    <cmt>АККЛИМАТ230816</cmt>
+    <desc>АККЛИМАТ230816</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.697620000" lon="44.514852000">
+    <ele>4890.633789</ele>
+    <time>2016-08-24T06:36:54Z</time>
+    <name>КАЗБЕК ПЕР</name>
+    <cmt>КАЗБЕК ПЕР</cmt>
+    <desc>КАЗБЕК ПЕР</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.658915000" lon="44.573696000">
+    <ele>2937.755127</ele>
+    <time>2016-08-25T08:34:16Z</time>
+    <name>АРША ПЕР</name>
+    <cmt>АРША ПЕР</cmt>
+    <desc>АРША ПЕР</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.665293000" lon="44.618283000">
+    <ele>2149.505615</ele>
+    <time>2016-08-25T11:30:30Z</time>
+    <name>ЛАГ250816</name>
+    <cmt>ЛАГ250816</cmt>
+    <desc>ЛАГ250816</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="41.383404000" lon="43.295709000">
+    <ele>1219.359497</ele>
+    <time>2016-08-29T16:16:21Z</time>
+    <name>ЛАГ290816</name>
+    <cmt>ЛАГ290816</cmt>
+    <desc>ЛАГ290816</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="42.275082000" lon="42.687528000">
+    <ele>229.814545</ele>
+    <time>2016-08-31T04:52:20Z</time>
+    <name>ГЕСТХАУС РИОНИ</name>
+    <cmt>ГЕСТХАУС РИОНИ</cmt>
+    <desc>ГЕСТХАУС РИОНИ</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="41.976486000" lon="41.760642000">
+    <ele>2.558981</ele>
+    <time>2016-08-31T15:15:42Z</time>
+    <name>УРЕКЙ</name>
+    <cmt>УРЕКЙ</cmt>
+    <desc>УРЕКЙ</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+</gpx>
